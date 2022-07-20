@@ -15,3 +15,4 @@ btn.addEventListener('click', () => {
 window.addEventListener('DOMContentLoaded', () => {
     preloader.classList.add('hide-preloader')
 })
+
